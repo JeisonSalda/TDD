@@ -1,0 +1,14 @@
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/bin/Debug/netcoreapp2.0/TDDConWilkinson.deps.json
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/bin/Debug/netcoreapp2.0/TDDConWilkinson.runtimeconfig.json
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/bin/Debug/netcoreapp2.0/TDDConWilkinson.runtimeconfig.dev.json
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/bin/Debug/netcoreapp2.0/TDDConWilkinson.dll
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/bin/Debug/netcoreapp2.0/TDDConWilkinson.pdb
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/obj/Debug/netcoreapp2.0/TDDConWilkinson.csprojResolveAssemblyReference.cache
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/obj/Debug/netcoreapp2.0/TDDConWilkinson.csproj.CoreCompileInputs.cache
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/obj/Debug/netcoreapp2.0/TDDConWilkinson.AssemblyInfoInputs.cache
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/obj/Debug/netcoreapp2.0/TDDConWilkinson.AssemblyInfo.cs
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/obj/Debug/netcoreapp2.0/TDDConWilkinson.dll
+/Users/jeisonsaldarriaga/Projects/TDDConWilkinson/TDDConWilkinson/obj/Debug/netcoreapp2.0/TDDConWilkinson.pdb
